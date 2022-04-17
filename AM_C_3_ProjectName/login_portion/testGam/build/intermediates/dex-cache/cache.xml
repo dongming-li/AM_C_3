@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Allie\Desktop\309_from_drive\testGam\android\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Allie\Desktop\309_from_drive\testGam\android\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6ea1ab59c9efbff3deb2d87aa82505125952712f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Allie\Desktop\309_from_drive\testGam\android\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="be2bc801b2f0841e3e3c4b791c397c481cb47007">
+        <dex dex="C:\Users\Allie\Desktop\309_from_drive\testGam\android\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_003a290d0399daf9d2c3992b0b80ac57602c125f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Allie\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp-ws\2.5.0\e9753b7dcae5deca92e871c5c759067070b07bc\okhttp-ws-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e9753b7dcae5deca92e871c5c759067070b07bc">
+        <dex dex="C:\Users\Allie\Desktop\309_from_drive\testGam\android\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-ws-2.5.0_2d831be695cc1ec66719a4f05b73fc5ae9655737\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Allie\.gradle\caches\modules-2\files-2.1\io.socket\socket.io-client\0.6.2\31fb4bf50b62daadee5e94f39679812ad8a9ae00\socket.io-client-0.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="31fb4bf50b62daadee5e94f39679812ad8a9ae00">
+        <dex dex="C:\Users\Allie\Desktop\309_from_drive\testGam\android\build\intermediates\transforms\dex\debug\folders\1000\10\socket.io-client-0.6.2_47432bd2253a748b59b14c844543c3bdec78d5ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Allie\.gradle\caches\modules-2\files-2.1\io.socket\engine.io-client\0.6.2\939f90d47c800626d5b0a4e7f89f98b3dde61dc6\engine.io-client-0.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="939f90d47c800626d5b0a4e7f89f98b3dde61dc6">
+        <dex dex="C:\Users\Allie\Desktop\309_from_drive\testGam\android\build\intermediates\transforms\dex\debug\folders\1000\10\engine.io-client-0.6.2_74b65e8fabd0d9535e4ed2a1097cbe92894a86e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Allie\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="C:\Users\Allie\Desktop\309_from_drive\testGam\android\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.5.0_34d8b2c926c8acbf3b78c6e1a6f335ac621c593c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Allie\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\Allie\Desktop\309_from_drive\testGam\android\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_25880c1d2f78f6edd143fcbf5c3b7315edc42530\classes.dex" />
+    </item>
+
+</items>

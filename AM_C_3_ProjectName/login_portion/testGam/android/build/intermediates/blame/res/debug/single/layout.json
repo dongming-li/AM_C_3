@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Users\\Allie\\Desktop\\309_from_drive\\testGam\\android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "C:\\Users\\Allie\\Desktop\\309_from_drive\\testGam\\android\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "U:\\cs309\\testGam\\android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "U:\\cs309\\testGam\\android\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Allie\\Desktop\\309_from_drive\\testGam\\android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "C:\\Users\\Allie\\Desktop\\309_from_drive\\testGam\\android\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "U:\\cs309\\testGam\\android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "U:\\cs309\\testGam\\android\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "U:\\cs309\\testGam\\android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "U:\\cs309\\testGam\\android\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\lebea\\Desktop\\alex\\testGam\\android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\Users\\lebea\\Desktop\\alex\\testGam\\android\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Allie\\Desktop\\309_from_drive\\testGam\\android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_admin_home.xml",
+        "source": "C:\\Users\\Allie\\Desktop\\309_from_drive\\testGam\\android\\res\\layout\\activity_admin_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Allie\\Desktop\\309_from_drive\\testGam\\android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Allie\\Desktop\\309_from_drive\\testGam\\android\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "U:\\cs309\\testGam\\android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_admin_home.xml",
+        "source": "U:\\cs309\\testGam\\android\\res\\layout\\activity_admin_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\lebea\\Desktop\\alex\\testGam\\android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_area.xml",
+        "source": "C:\\Users\\lebea\\Desktop\\alex\\testGam\\android\\res\\layout\\activity_user_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\Allie\\Desktop\\309_from_drive\\testGam\\android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_area.xml",
+        "source": "C:\\Users\\Allie\\Desktop\\309_from_drive\\testGam\\android\\res\\layout\\activity_user_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\Allie\\Desktop\\309_from_drive\\testGam\\android\\build\\intermediates\\res\\merged\\debug\\layout\\app_custom_list.xml",
+        "source": "C:\\Users\\Allie\\Desktop\\309_from_drive\\testGam\\android\\res\\layout\\app_custom_list.xml"
+    },
+    {
+        "merged": "U:\\cs309\\testGam\\android\\build\\intermediates\\res\\merged\\debug\\layout\\app_custom_list.xml",
+        "source": "U:\\cs309\\testGam\\android\\res\\layout\\app_custom_list.xml"
+    },
+    {
+        "merged": "U:\\cs309\\testGam\\android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_area.xml",
+        "source": "U:\\cs309\\testGam\\android\\res\\layout\\activity_user_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\lebea\\Desktop\\alex\\testGam\\android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "C:\\Users\\lebea\\Desktop\\alex\\testGam\\android\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\lebea\\Desktop\\alex\\testGam\\android\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "C:\\Users\\lebea\\Desktop\\alex\\testGam\\android\\res\\layout\\activity_register.xml"
+    }
+]

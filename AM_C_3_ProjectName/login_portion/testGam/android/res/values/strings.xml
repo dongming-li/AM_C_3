@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">my-gdx-game</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_user_area">UserAreaActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_admin_home">AdminHomeActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+
+</resources>

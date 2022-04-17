@@ -1,0 +1,4 @@
+#Tue Dec 05 11:11:08 CST 2017
+base.0=C\:\\Users\\Allie\\Desktop\\309_from_drive\\testGam\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_6
+renamed.0=classes.dex
+file.0=C\:\\Users\\Allie\\Desktop\\309_from_drive\\testGam\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_6\\classes.dex
